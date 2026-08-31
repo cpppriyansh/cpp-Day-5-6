@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpp assignements/cpp assignements.vcxproj" Id="8507e124-8865-4c61-b9fa-2c7424ed902a" />
+  <Project Path="Day 5/Day 5.vcxproj" Id="a321ec4f-a385-412a-8b12-21fcba4d2d18" />
+  <Project Path="Day 6/Day 6.vcxproj" Id="169983ca-fb7e-496b-bd0a-582ca9436977" />
+</Solution>
